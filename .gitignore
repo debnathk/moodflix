@@ -2,8 +2,6 @@
 node_modules/
 .pnp/
 .pnp.js
-package-lock.json
-package.json
 
 # Build outputs
 dist/
@@ -57,8 +55,6 @@ postcss.config.js
 tailwind.config.js
 vite.config.js
 vitest.config.js
-server/package.json
-server/package-lock.json
 client/src/components/MovieCard.test.jsx
 client/src/hooks/useChat.test.js
 client/src/services/api.test.js
