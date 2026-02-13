@@ -18,6 +18,8 @@ A MERN stack application that uses AI (powered by OpenAI) to recommend movies ba
 3. **OpenAI API Key**: https://platform.openai.com/api-keys
 4. **TMDB API Key** (free): https://www.themoviedb.org/settings/api
 
+## System Design
+
 ## Setup
 
 ### 1. Clone and Install
@@ -104,3 +106,5 @@ movie-recommender/
 **User**: "90s definitely"
 
 **AI**: "Here are some cozy 90s films perfect for your nostalgic mood..."
+
+## Demo
