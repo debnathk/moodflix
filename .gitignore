@@ -2,6 +2,8 @@
 node_modules/
 .pnp/
 .pnp.js
+package-lock.json
+package.json
 
 # Build outputs
 dist/
@@ -40,3 +42,24 @@ coverage/
 # Misc
 *.pem
 .cache/
+
+# Test files
+TEST_REPORT.md
+babel.config.cjs
+jest.config.js
+jest.setup.js
+vitest.config.js
+coverage/
+__tests__/
+
+# Config files
+postcss.config.js
+tailwind.config.js
+vite.config.js
+vitest.config.js
+server/package.json
+server/package-lock.json
+client/src/components/MovieCard.test.jsx
+client/src/hooks/useChat.test.js
+client/src/services/api.test.js
+client/src/test/setup.js
