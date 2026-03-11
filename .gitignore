@@ -51,9 +51,6 @@ coverage/
 __tests__/
 
 # Config files
-postcss.config.js
-tailwind.config.js
-vite.config.js
 vitest.config.js
 client/src/components/MovieCard.test.jsx
 client/src/hooks/useChat.test.js
