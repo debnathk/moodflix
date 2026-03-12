@@ -106,5 +106,3 @@ movie-recommender/
 **User**: "90s definitely"
 
 **AI**: "Here are some cozy 90s films perfect for your nostalgic mood..."
-
-## Demo
